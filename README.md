@@ -7,7 +7,7 @@ about over 5 years of experience with React, Gatsby, Next, Vue, Laravel and node
 <div>
   <h4> GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=maiba23&show_icons=true&theme=vue-dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiba23&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiba23&layout=compact&theme=vue-dark"" />
 </div>
 
 <!---
