@@ -156,16 +156,6 @@ about over 5 years of experience with React, Gatsby, Next, Vue, Laravel and node
       data-canonical-src="https://img.shields.io/badge/React_Router-CA4245?style=flat&amp;logo=react-router&amp;logoColor=white"
       style="max-width: 100%"
   /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/df0ecc4ae0004d0f9692c761e52cbfc73345c6188a92b9dfcfebeaa6eeb41bfc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f766572616c6c732d3331363139323f7374796c653d666c6174266c6f676f3d636f766572616c6c73"
-    ><img
-      src="https://camo.githubusercontent.com/df0ecc4ae0004d0f9692c761e52cbfc73345c6188a92b9dfcfebeaa6eeb41bfc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f766572616c6c732d3331363139323f7374796c653d666c6174266c6f676f3d636f766572616c6c73"
-      alt="Coveralls"
-      data-canonical-src="https://img.shields.io/badge/Coveralls-316192?style=flat&amp;logo=coveralls"
-      style="max-width: 100%"
-  /></a>
 </p>
 
 
